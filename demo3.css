@@ -1,0 +1,31 @@
+#div1{
+	width: 300px;
+	height: 30px;
+	background: #f5f5f5;
+	border-bottom: 2px solid #cfcfcf;
+}
+
+#div2{
+	width: 300px;
+	height: 57px;
+	background: #ffffff url(../images/11.png) no-repeat 16px 25px;
+}
+
+#div3{
+	width: 300px;
+	height: 127px;
+	background: #f7f7f7 url(../images/12.png) no-repeat 9px 51px;
+}
+
+#div4{
+	width: 300px;
+	height: 76px;
+	background: #ffffff url(../images/13.png) no-repeat 15px 25px;
+}
+
+#div5{
+	width: 300px;
+	height: 127px;
+	background: #f7f7f7 url(../images/14.png) no-repeat 12px 49px;
+	border-bottom: 2px solid #cfcfcf;
+}

@@ -1,0 +1,42 @@
+#div1{
+	width: 244px;
+	height: 49px;
+	background: #ffffff url(../images/5.png) no-repeat 21px 17px;
+	border-bottom: 2px solid #d7d7d7;
+}
+
+#div2{
+	width: 244px;
+	height: 46px;
+	background: #fefefe url(../images/6.png) no-repeat 21px 17px;
+	border-bottom: 2px solid #d7d7d7;
+}
+
+#div3{
+	width: 244px;
+	height: 46px;
+	background: #fcfcfc url(../images/7.png) no-repeat 19px 17px;
+	border-bottom: 2px solid #d7d7d7;
+	border-left: 4px solid #c86734;
+}
+
+#div4{
+	width: 244px;
+	height: 46px;
+	background: #fafafa url(../images/8.png) no-repeat 21px 17px;
+	border-bottom: 2px solid #d7d7d7;
+}
+
+#div5{
+	width: 244px;
+	height: 46px;
+	background: #f7f7f7 url(../images/9.png) no-repeat 21px 17px;
+	border-bottom: 2px solid #d7d7d7;
+}
+
+#div6{
+	width: 244px;
+	height: 51px;
+	background: #f5f5f5 url(../images/10.png) no-repeat 21px 17px;
+	
+}
